@@ -32,7 +32,7 @@ const ChoropletMap = ({ educationData, countiesData }) => {
 
     const color = d3.scaleQuantize()
       .domain([d3.min(educationData, d => d.bachelorsOrHigher), d3.max(educationData, d => d.bachelorsOrHigher)])
-      .range(d3.schemeGreens[9]);
+      .range(d3.schemeGreens[7]);
 
     const path = d3.geoPath();
 
