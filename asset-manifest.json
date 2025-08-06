@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/choropleth-map/static/css/main.23c4ea64.css",
+    "main.js": "/choropleth-map/static/js/main.48b65bf8.js",
+    "index.html": "/choropleth-map/index.html",
+    "main.23c4ea64.css.map": "/choropleth-map/static/css/main.23c4ea64.css.map",
+    "main.48b65bf8.js.map": "/choropleth-map/static/js/main.48b65bf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c4ea64.css",
+    "static/js/main.48b65bf8.js"
+  ]
+}
